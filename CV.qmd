@@ -1,0 +1,70 @@
+---
+title: "Resume"
+author: "Mahyar Madarshahian"
+format: pdf
+editor: visual
+---
+
+City Campus (Lincoln), WHIT 262M
+
+Prem S. Paul Research Center at Whittier School
+
+Phone: (803) 292-0040   Email: smadarshahian2\@huskers.unl.edu
+
+## Academic Background
+
+**The University of Nebraska-Lincoln**
+
+Ph.D., Civil and Environmental Engineering
+
+Advisor: Dr. Nathan Huynh
+
+**The University of South Carolina**
+
+Ph.D., Civil and Environmental Engineering, December  2022
+
+Advisor: Dr. Nathan Huynh
+
+**Iran University of Science and Technology**
+
+M.S., Transportation Engineering, December 2018
+
+Advisor: Afshin Shariat Mohaymani
+
+## Publication 
+
+**Mahyar Madarshahian,** Aditya Balaram, Fahim Ahmed, Nathan Huynh, Chowdhury KA Siddiqui, Mark Ferguson. "Analysis of Injury Severity of Work Zone Truck-Involved Crashes in South Carolina for Interstates and Non-Interstates", Sustainability, 2023
+
+Mahdi Jahangard, **Mahyar Madarshahian,** Hadi Sabur, Reza Rezvani, Abolfazl Mohammadzadeh Moghaddam, and Nathan Huynh. "Illegal Maneuver Effect on Traffic Operations at Signalized Intersections: An Observational Simulation-Based Before-After Study Using Response Surface Methodology", Journal of Advanced Transportation, 2023
+
+## **Research Experience**
+
+-   Civil Engineer of Constructing Kamal Hotel 2009
+
+-   Employee of Khorasan Razavi Provincial Department of Road Maintenance & Transportation 2011
+
+-   Scholar of Road Safety Research Center of Iran University of Science & Technology 2011-2014
+
+-   Expert and member of Road Safety Techno-Economic Center of Ferdowsi University of Mashhad 2014-2020
+
+-   Collaboration with Mashhad University of Medical & Science 2015
+
+-   Expert director of Research, Study and Education in Taxi Management Organization of Mashhad 2013-2020
+
+-   Graduate Research Assistant, University of South Carolina & University of Nebraska-Lincoln 2021 - Current
+
+## Skills
+
+**Advanced:** Python, Nlogit
+
+**Intermediate:** SAS, R, Arc GIS, GitHUB
+
+**Familiar**: AutoCAD, Aimsun, Vissim, Vistro
+
+**Technical Skills :** Data Analytics, Discrete Choice Modeling
+
+## Honor and awards
+
+|                                                                                      |     |      |
+|--------------------------------------------|--------------|--------------|
+| Winning the Dean Fellowship award for Phd degree in the university of wisconsin 2019 |     | 2019 |
