@@ -1,0 +1,44 @@
+---
+title: "Presentation"
+author: "Mahyar Madarshahian"
+format: revealjs
+editor: visual
+---
+
+## Personal Information
+
+```{r}
+# Load required packages
+library(knitr)
+library(kableExtra)
+
+# Create a data frame with your biographical information
+bio_info <- data.frame(
+  Description = c("Birthday:", "Hometown:", "Program:", "Expected Graduation:"),
+  Value = c("July 2nd, 1986", "Iran, Mashhad", "PhD student in Transportation Engineering", "2025")
+)
+
+# Create a table with your biographical information
+kable(bio_info, col.names = NULL) %>%
+  kable_styling(full_width = FALSE) %>%
+  column_spec(1, bold = TRUE)
+```
+
+## The Favorite Animal
+
+```{r}
+# Insert a picture of your favorite animal
+knitr::include_graphics("tiger.jpg")
+```
+
+## The Favorite Plot
+
+```{r}
+# Insert your favorite plot generated in R
+knitr::include_graphics("Ugly_Plot.png")
+```
+
+# Add a link to your CV
+
+[Link to My CV](https://github.com/mahyar-madarshahian/My-Resume/blob/main/CV.pdf) \`\`\`
+

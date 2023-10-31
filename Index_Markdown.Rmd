@@ -1,0 +1,32 @@
+---
+title: "My Presentation"
+subtitle: "Introduction, Animal Picture, Favorite Plot, CV Link"
+output: beamer_presentation
+---
+
+## Introduction
+
+- **Birthday:** July 2nd, 1986
+- **Hometown:** Iran
+- **Program:** PhD student in Transportation Engineering
+- **Expected Graduation:** 2025
+
+## Picture of My Favorite Animal
+
+\begin{figure}
+  \includegraphics[width=1\textwidth]{tiger.jpg}
+\end{figure}
+
+## My Favorite Plot
+
+\begin{figure}
+  \includegraphics[width=1\textwidth]{Ugly_Plot.PNG}
+\end{figure}
+
+## Link to My CV
+
+- You can find my CV here: [CV Link](https://github.com/mahyar-madarshahian/My-Resume/blob/main/CV.pdf)
+
+
+
+
